@@ -4,5 +4,7 @@
 int main(void){
     foo();
     goo();
+
+    printf("--- THE END ---");
     return 0;
 }
